@@ -98,8 +98,6 @@ Together, RAG-Pro + Mentora form a powerful ecosystem for intelligent learning a
 🧑‍💻 Author
 Hemanth Kumar
 DevOps | AI Engineer | Streamlit Developer
-📍 Pleasanton, California
-📧 hemanth2416byte@gmail.com
 
 © 2025 Mentora — All rights reserved.
 
